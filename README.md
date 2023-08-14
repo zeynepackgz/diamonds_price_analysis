@@ -2,7 +2,7 @@
 Bu proje, elmasların fiyatlarını değerlendiren kapsamlı bir veri analizi. Veri setimizde elmasların kesim, renk, fiyat ve diğer özellikleri yer alıyor. Python programlama dilini ve veri analizinde yaygın olarak kullanılan Pandas, NumPy, Matplotlib ve Seaborn kütüphanelerini kullandım.
 
 # Veri Seti ve İşleme
-- Veri setimizi ve kütüphaneleri yükleyerek başladım.
+- Veri setini ve kütüphaneleri yükleyerek başladım.
 - İlgili sütunlardaki eksik veya gereksiz verileri düzenledim.
 - Verileri temizleyerek ve düzenleyerek analiz için uygun hale getirdim.
   
